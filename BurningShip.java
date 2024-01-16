@@ -41,4 +41,6 @@ public class BurningShip extends FractalGenerator
 
 }
 
+
 somenewfeatures
+anothernewfeature
