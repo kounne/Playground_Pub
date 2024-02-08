@@ -46,3 +46,4 @@ somenewfeatures
 anothernewfeature
 i fixed a mistake for amend
 dou
+boji moi
