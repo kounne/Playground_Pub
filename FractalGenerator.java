@@ -69,3 +69,4 @@ public abstract class FractalGenerator
     public abstract int numIterations(double x, double y);
 }
 23232323
+wut
