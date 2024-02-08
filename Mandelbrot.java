@@ -1,5 +1,5 @@
 package com.company;
-
+fdfdfdfd
 import java.awt.geom.Rectangle2D;
 
 public class Mandelbrot extends FractalGenerator
